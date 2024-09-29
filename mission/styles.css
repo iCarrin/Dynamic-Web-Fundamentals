@@ -39,3 +39,11 @@ img{
     margin-right: auto;
     
 }
+.content.dark{
+    background-color: #333;
+    color: white;
+    
+}
+select{
+    
+}
